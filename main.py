@@ -8,8 +8,7 @@ def fileLeaderboards():
     ChosenFile = DAY2
   elif SelectFile == 3:
     ChosenFile = DAY3
-  else:
-    None
+
   file = open(ChosenFile,'r') #Open the chosen file
   reader = csv.reader(file)
   highscore = 0 #To be compared to later
