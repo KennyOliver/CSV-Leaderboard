@@ -1,6 +1,6 @@
-# CSV-Leaderboard
+# csv-leaderboard
 
-![image](https://www.codefactor.io/repository/github/KennyOliver/csv-leaderboard/badge)
+![image](https://www.codefactor.io/repository/github/KennyOliver/csv-leaderboard/badge?style=for-the-badge)
 
 Python: Leaderboard using CSV files
 
